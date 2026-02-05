@@ -9,11 +9,6 @@
 - AI systems, multi-agent architectures, applied NLP, and LLM-powered tools
 - Open-source projects related to distributed systems or intelligent automation
 
-## 🌱 I’m currently learning
-- Advanced agent orchestration
-- Knowledge-grounded reasoning
-- Scalable distributed systems
-
 ## 📫 How to reach me
 - Email: hamnaarshad077@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/hamna-arshad  
